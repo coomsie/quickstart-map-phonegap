@@ -5,11 +5,10 @@ A set of simple samples that show how to get started with the ArcGIS API for Jav
 ## Samples
 This repo contains four sample applications.  
 
-* index_basicmap.html - a basic mapping application configuration.
-* index_basicwebmap.html - uses a simple web map.
-* index_basicgps.html - uses the GPS to acquire current location and center the map.
-* index_jquerymobilegps.html - demonstrates how to use jQuery mobile with PhoneGap and the ArcGIS API for JavaScript. 
-* index_jquerymobilegps_localarcgis.html - demonstrates a local version of the ArcGIS API for JavaScript that was created using [http://jso.arcgis.com/](http://jso.arcgis.com/). 
+* basicmap.html - a basic mapping application configuration.
+* basicwebmap.html - uses a simple web map.
+* basicgps.html - uses the GPS to acquire current location and center the map.
+* jquerymobilegps.html - demonstrates how to use jQuery mobile with PhoneGap and the ArcGIS API for JavaScript.
 
 The jQuery sample also makes use of the [jquery-mobile-map-js](https://github.com/Esri/jquery-mobile-map-js) repository's jQueryHelper library.
 
